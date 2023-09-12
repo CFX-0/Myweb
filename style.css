@@ -1,0 +1,18 @@
+body {
+    font-size: 15pt;
+}
+div.container {
+  text-align: center;
+}
+footer{
+  text-align: center
+}
+.WebContainer{
+    width: auto;
+    height: auto;
+}
+.articles{
+    width:90%;
+    height: auto;
+    margin: auto;
+}
